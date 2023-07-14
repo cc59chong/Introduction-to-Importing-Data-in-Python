@@ -1,4 +1,4 @@
-# Introduction-to-Importing-Data-in-Python
+# Introduction-to-Importing-Data-in-Python [Notes](https://github.com/cc59chong/Introduction-to-Importing-Data-in-Python/blob/main/Introduction%20to%20Importing%20Data%20in%20Python.ipynb)
 learn the many ways to import data into Python: from flat files such as `.txt` and `.csv`; from files native to other software such as `Excel spreadsheets`, `Stata`, `SAS`, and `MATLAB` files; and from relational databases such as `SQLite` and `PostgreSQL`.
 ## 1 -- Introduction and flat files
 Learn how to import data into Python from all types of flat files, which are a simple and prevalent form of data storage.<br>
