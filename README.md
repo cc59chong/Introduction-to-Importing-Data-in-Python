@@ -5,3 +5,5 @@ Learn how to import data into Python from all types of flat files, which are a s
 Learn how to use ```Numpy``` and `pandas` to import flat files and customize your imports.
 ## 2 -- Importing data from other file types
 Learn how to import data into Python from a wide array of important file types. These include `pickled files`, `Excel spreadsheets`, `SAS` and `Stata files`, `HDF5 files`, a file type for storing `large quantities of numerical data`, and `MATLAB files`.
+## 3 -- Working with relational databases in Python
+Learn about relational models, how to create SQL queries, how to filter and order your SQL records, and how to perform advanced queries by joining database tables.
