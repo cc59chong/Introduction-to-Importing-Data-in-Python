@@ -3,3 +3,5 @@ learn the many ways to import data into Python: from flat files such as `.txt` a
 ## 1  Introduction and flat files
 Learn how to import data into Python from all types of flat files, which are a simple and prevalent form of data storage.<br>
 Learn how to use ```Numpy``` and `pandas` to import flat files and customize your imports.
+## Importing data from other file types
+Learn how to import data into Python from a wide array of important file types. These include `pickled files`, `Excel spreadsheets`, `SAS` and `Stata files`, `HDF5 files`, a file type for storing `large quantities of numerical data`, and `MATLAB files`.
